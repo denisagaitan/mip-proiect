@@ -1,0 +1,15 @@
+D:\University\Denisa\mip-proiect\Proiect\Proiect\bin\Debug\net6.0\Proiect.exe
+D:\University\Denisa\mip-proiect\Proiect\Proiect\bin\Debug\net6.0\Proiect.deps.json
+D:\University\Denisa\mip-proiect\Proiect\Proiect\bin\Debug\net6.0\Proiect.runtimeconfig.json
+D:\University\Denisa\mip-proiect\Proiect\Proiect\bin\Debug\net6.0\Proiect.dll
+D:\University\Denisa\mip-proiect\Proiect\Proiect\bin\Debug\net6.0\Proiect.pdb
+D:\University\Denisa\mip-proiect\Proiect\Proiect\obj\Debug\net6.0\Proiect.csproj.AssemblyReference.cache
+D:\University\Denisa\mip-proiect\Proiect\Proiect\obj\Debug\net6.0\Proiect.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Denisa\mip-proiect\Proiect\Proiect\obj\Debug\net6.0\Proiect.AssemblyInfoInputs.cache
+D:\University\Denisa\mip-proiect\Proiect\Proiect\obj\Debug\net6.0\Proiect.AssemblyInfo.cs
+D:\University\Denisa\mip-proiect\Proiect\Proiect\obj\Debug\net6.0\Proiect.csproj.CoreCompileInputs.cache
+D:\University\Denisa\mip-proiect\Proiect\Proiect\obj\Debug\net6.0\Proiect.dll
+D:\University\Denisa\mip-proiect\Proiect\Proiect\obj\Debug\net6.0\refint\Proiect.dll
+D:\University\Denisa\mip-proiect\Proiect\Proiect\obj\Debug\net6.0\Proiect.pdb
+D:\University\Denisa\mip-proiect\Proiect\Proiect\obj\Debug\net6.0\Proiect.genruntimeconfig.cache
+D:\University\Denisa\mip-proiect\Proiect\Proiect\obj\Debug\net6.0\ref\Proiect.dll
