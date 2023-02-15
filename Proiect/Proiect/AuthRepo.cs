@@ -18,7 +18,7 @@ namespace Proiect
 
         public User LogIn(String UserName, String Password)
         {
-            string[] lines = System.IO.File.ReadAllLines(@"D:\University\Denisa\mip-proiect\Proiect\Proiect\users.in");
+            string[] lines = System.IO.File.ReadAllLines(@"C:\Users\HP\Desktop\mip-proiect\Proiect\Proiect\users.in");
             foreach (string line in lines)
             {
                 string[] splitLine = line.Trim().Split(";");

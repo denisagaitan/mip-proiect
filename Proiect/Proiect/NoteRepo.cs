@@ -21,7 +21,7 @@ namespace Proiect
 
         private void LoadFromFile() {
             this.Notes = new List<Note>();
-            string[] lines = System.IO.File.ReadAllLines(@"D:\University\Denisa\mip-proiect\Proiect\Proiect\notes.in");
+            string[] lines = System.IO.File.ReadAllLines(@"C:\Users\HP\Desktop\mip-proiect\Proiect\Proiect\notes.in");
             foreach (string line in lines)
             {
                 string[] splitLine = line.Trim().Split(";");
@@ -36,7 +36,7 @@ namespace Proiect
             {
                 notesToSave.Add("" + n.Content + ";" + n.Owner.Username);
             }
-            File.WriteAllLines(@"D:\University\Denisa\mip-proiect\Proiect\Proiect\notes.in", notesToSave);
+            File.WriteAllLines(@"C:\Users\HP\Desktop\mip-proiect\Proiect\Proiect\notes.in", notesToSave);
         }
 
         public void AddNote(Note Note)

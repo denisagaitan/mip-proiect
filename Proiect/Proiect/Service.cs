@@ -39,7 +39,7 @@ namespace Proiect
         internal IEnumerable<Note> GetNotesByUser(string? username)
         {
             List<Note> Notes = NoteRepo.GetNotes();
-
+            // LINQ
             IEnumerable<Note> notes =
                 from note in Notes
                 where note.Owner.Username == username
